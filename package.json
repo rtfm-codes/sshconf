@@ -1,5 +1,5 @@
 {
-  "name": "sshconf",
+  "name": "rtfm-sshconf",
   "version": "1.0.0",
   "description": "SSH config manager. Add, edit, list hosts. No more manual editing.",
   "main": "src/config.js",

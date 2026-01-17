@@ -1,0 +1,20 @@
+{
+  "name": "sshconf",
+  "version": "1.0.0",
+  "description": "SSH config manager. Add, edit, list hosts. No more manual editing.",
+  "main": "src/config.js",
+  "bin": {
+    "sshconf": "./bin/sshconf.js"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["ssh", "config", "manager", "hosts", "cli"],
+  "author": "rtfm.codes",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtfm-codes/sshconf"
+  },
+  "homepage": "https://rtfm.codes/sshconf"
+}
